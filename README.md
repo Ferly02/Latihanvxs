@@ -1,4 +1,4 @@
-LatihanVCS
+LatihanVXS
 
 # Tutorial Menggunakan Git
 
